@@ -2,25 +2,19 @@
 
 Welcome to my LeetCode repository!
 
-This repository contains my accepted LeetCode solutions, automatically synced using **LeetSync**. It serves as a record of my daily problem-solving journey as I prepare for software engineering interviews and strengthen my Data Structures and Algorithms skills.
+This repository is a collection of my accepted LeetCode solutions. It reflects my continuous journey of improving problem-solving skills, strengthening my understanding of Data Structures and Algorithms, and preparing for software engineering interviews.
 
 ## Goals
 
-* Solve LeetCode problems consistently
-* Improve problem-solving ability
-* Master Data Structures and Algorithms
+* Solve problems consistently
+* Build strong DSA fundamentals
+* Improve logical and analytical thinking
+* Learn optimized approaches
 * Prepare for coding interviews
-* Learn optimal approaches, not just accepted solutions
 
 ## Progress
 
-📅 I update this repository regularly through LeetSync whenever I solve a new problem on LeetCode.
-
-Every solved problem represents another step toward becoming a better software engineer.
-
-## Languages
-
-* Java
+I solve LeetCode problems regularly, and this repository grows with every accepted solution. It serves as a public record of my learning, consistency, and progress as I work toward becoming a better software engineer.
 
 ## Connect With Me
 
@@ -28,5 +22,4 @@ Every solved problem represents another step toward becoming a better software e
 * **LinkedIn:** https://www.linkedin.com/in/prashanth-goud-372485294
 
 ---
-
 > *"Small progress every day leads to big results."* 🌱
