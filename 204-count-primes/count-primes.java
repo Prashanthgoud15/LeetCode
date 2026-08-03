@@ -2,7 +2,6 @@ import java.util.*;
 class Solution {
     public int countPrimes(int n) {
         if(n<=2) return 0;
-        
         boolean prime[] = new boolean[n+1];
         Arrays.fill(prime,true);
         prime[0] = false;
